@@ -10,5 +10,6 @@ markdown_extensions:
     - attr_list
 
 pages:
-        - Profile: about.md
+        - Profile: 
+                - 'Min Jong Noh': about.md
 
