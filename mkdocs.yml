@@ -1,0 +1,14 @@
+site_name: Min Jong Noh Homepage
+
+theme:
+    name: 'material'
+
+plugins:
+    - search
+
+markdown_extensions:
+    - attr_list
+
+pages:
+        - Profile: about.md
+
