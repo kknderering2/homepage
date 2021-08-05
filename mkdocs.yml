@@ -9,6 +9,6 @@ plugins:
 markdown_extensions:
     - attr_list
 
-pages:
+nav:
     - 'Min Jong Noh': about.md
 
