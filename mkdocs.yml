@@ -10,5 +10,5 @@ markdown_extensions:
     - attr_list
 
 nav:
-    - 'Min Jong Noh': about.md
+    - 'Profile': about.md
 
